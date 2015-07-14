@@ -1,2 +1,2 @@
 # kadai-mst
-mst
+mst-mitui
